@@ -1,3 +1,4 @@
+// src/db.js (ESM)
 import pg from 'pg';
 const { Pool } = pg;
 
